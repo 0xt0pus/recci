@@ -1,0 +1,25 @@
+First run the following command
+
+chmod +x requirtment.sh
+
+then 
+
+./requirtment.shs
+
+then
+
+chmod +x main.sh
+
+then 
+
+./main.sh
+
+
+Then 
+
+guess what?
+
+:)
+
+Enjoy more than 10 options of automated tools options 
+

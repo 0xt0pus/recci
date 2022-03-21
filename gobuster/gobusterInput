@@ -1,0 +1,24 @@
+===============================================================
+Gobuster v3.1.0
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://10.10.28.44
+[+] Method:                  GET
+[+] Threads:                 10
+[+] Wordlist:                gobuster/wordlist.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.1.0
+[+] Timeout:                 10s
+===============================================================
+2021/12/14 13:51:09 Starting gobuster in directory enumeration mode
+===============================================================
+/images               (Status: 301) [Size: 234] [--> http://10.10.28.44/images/]
+/blog                 (Status: 301) [Size: 232] [--> http://10.10.28.44/blog/]  
+/sitemap              (Status: 200) [Size: 0]                                   
+/rss                  (Status: 301) [Size: 0] [--> http://10.10.28.44/feed/]    
+/login                (Status: 302) [Size: 0] [--> http://10.10.28.44/wp-login.php]
+
+[!] Keyboard interrupt detected, terminating.
+===============================================================
+2021/12/14 13:52:05 Finished
+===============================================================

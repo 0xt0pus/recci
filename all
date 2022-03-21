@@ -1,0 +1,21 @@
+The Ip and Ping details here 
+--------------------------------------
+PING scanme.nmap.org (45.33.32.156) 56(84) bytes of data.
+64 bytes from scanme.nmap.org (45.33.32.156): icmp_seq=1 ttl=128 time=287 ms
+64 bytes from scanme.nmap.org (45.33.32.156): icmp_seq=2 ttl=128 time=286 ms
+64 bytes from scanme.nmap.org (45.33.32.156): icmp_seq=3 ttl=128 time=295 ms
+64 bytes from scanme.nmap.org (45.33.32.156): icmp_seq=4 ttl=128 time=357 ms
+64 bytes from scanme.nmap.org (45.33.32.156): icmp_seq=5 ttl=128 time=313 ms
+64 bytes from scanme.nmap.org (45.33.32.156): icmp_seq=6 ttl=128 time=296 ms
+64 bytes from scanme.nmap.org (45.33.32.156): icmp_seq=7 ttl=128 time=419 ms
+64 bytes from scanme.nmap.org (45.33.32.156): icmp_seq=8 ttl=128 time=475 ms
+64 bytes from scanme.nmap.org (45.33.32.156): icmp_seq=9 ttl=128 time=307 ms
+64 bytes from scanme.nmap.org (45.33.32.156): icmp_seq=10 ttl=128 time=285 ms
+
+--- scanme.nmap.org ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9019ms
+rtt min/avg/max/mdev = 284.644/331.784/475.002/62.337 ms
+
+
+The open ports are 
+--------------------------------------
